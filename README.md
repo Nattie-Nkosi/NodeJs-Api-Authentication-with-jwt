@@ -7,10 +7,10 @@ and bcrypt.js to hash passwords.
 1. `npm install`.
 2. `npm start`.
 3. Open Postman and make a POST request to register a new user `http://localhost:3000/api/user/register`.
-4. Post request to login a user `http://localhost:3000/api/user/login`.
+4. A POST request to login a user `http://localhost:3000/api/user/login`.
 
 ### MongoDB
-Open .env file and add your MongoURL
+Open .env file and add your MongoDB URI, local or atlas
 
 
 
